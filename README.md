@@ -1,5 +1,5 @@
 
-**Resume Analyser and Skill Gap Detection**
+**RESUME ANALYSER AND SKILL GAP DETECTION**
 
 Resume Analyzer is designed to automate the process of resume evaluation. Users can upload their resumes in PDF or DOCX format, and the system extracts relevant information using Natural Language Processing (NLP). The extracted skills are then compared with predefined job-role requirements to calculate a match score and identify missing skills.
 
